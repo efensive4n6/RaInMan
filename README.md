@@ -2,5 +2,6 @@
 
 # RaInMan
 
-RaInMan (Rapid Incident Management) is a collection of scripts to streamline processes
-that I usually use during forensics, and incident response. 
+RaInMan (Rapid Incident Management) is a collection of scripts, and applications I've created over time in
+order to streamline processes that I usually use during forensics, and incident response. Think of these
+tools as more of a time management "get to the point" type of utility.
